@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "item_name": "Xiaomi Redmi Note 11",
+        "short_description": "Dual SIM 128 GB azul estelar 4 GB RAM", 
+        "quantity": 1,
+        "price_without_tax": 150,
+        "tax": 9,
+        "shipping_fee": 80
+    },
+    {
+        "id": 2,
+        "item_name": "Xiaomi Mi Smart Band",
+        "short_description": "Caja de plástico pc black", 
+        "quantity": 1,
+        "price_without_tax": 139,
+        "tax": 5,
+        "shipping_fee": 60
+    },
+    {
+        "id": 3,
+        "item_name": "Bocina JBL Go",
+        "short_description": "Portátil con bluetooth blue", 
+        "quantity": 1,
+        "price_without_tax": 80,
+        "tax": 3,
+        "shipping_fee": 50
+    }
+]
